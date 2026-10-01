@@ -10,10 +10,10 @@
 <br/>
 
 <p align="center">
-  <a href="www.linkedin.com/in/santhosh-kumar-talari-0a5350374">
+  <a href="www.linkedin.com/santhosh-kumar-talari-0a5350374">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" align="center"/>
   </a>
-  <a href="www.linkedin.com/in/santhosh-kumar-talari-0a5350374"><b>linkedin.com/in/santhosh-kumar-talari-0a5350374</b></a>
+  <a href="www.linkedin.com/santhosh-kumar-talari-0a5350374"><b>linkedin.com/in/santhosh-kumar-talari-0a5350374</b></a>
   
   <a href="mailto:santhoshkumartalari05@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="32" align="center"/>
