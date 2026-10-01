@@ -1,88 +1,169 @@
-# 👋 Hi, I’m Santhosh Kumar
+<div align="center">
 
-🔐 **Cybersecurity Engineer | Security Researcher | Cloud & Web Security Enthusiast**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=180&section=header&text=Santhosh%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20%26%20Agentic%20Systems&descAlignY=60&descSize=18" width="100%"/>
 
-I am a **results-driven cybersecurity professional** with strong foundations in **computer science, web & API security, cloud security, and offensive security methodologies**.  
-My work focuses on **finding real-world security issues, understanding attack paths, and designing secure systems** through hands-on labs, tooling, and research.
+[
 
-This GitHub serves as a **portfolio of my practical cybersecurity work**, including labs, tools, documentation, and write-ups.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Building+production+RAG+%26+AI+Agent+systems;Python+%7C+PyTorch+%7C+LangGraph+%7C+FastAPI+%7C+Docker;B.Tech+CSE+Final+Year+%7C+Open+to+AI+Engineer+roles)
 
----
+](https://git.io/typing-svg)
 
-## 🧠 Core Expertise
-- Web Application & API Security (OWASP Top 10, OWASP API Top 10)
-- Network & Infrastructure Security
-- Offensive Security & Penetration Testing
-- Cloud Security (AWS fundamentals & misconfigurations)
-- Linux & Windows Security
-- DevSecOps & Secure SDLC
-- Security Automation & Scripting
+[
 
----
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## 🛠️ Technical Skills
+](#)
+[
 
-### 🔹 Programming & Scripting
-- Python, Bash, PowerShell, JavaScript, C/C++
-- Security automation, scripting, exploit analysis
+![Email](https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white)
 
-### 🔹 Security Domains
-- Web Security: SQLi, XSS, CSRF, IDOR, SSRF, Auth Bypass, RCE  
-- Network Security: Scanning, Enumeration, Privilege Escalation  
-- Active Directory: Basics, Lateral Movement, Credential Attacks  
-- Cloud Security: IAM, S3, EC2, VPC, Misconfigurations  
-- DevSecOps: CI/CD Security, Docker, IaC Basics  
+](mailto:santhoshkumartalari05@gmail.com)
+[
 
-### 🔹 Tools & Platforms
-- Linux, Windows  
-- Burp Suite, Nmap, Metasploit (fundamentals)  
-- Git & GitHub  
-- AWS (Foundational Security Services)  
+![YouTube](https://img.shields.io/badge/YouTube-Devloveper_Sunny-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+](https://youtube.com/@devloveper_sunny)
+
+</div>
 
 ---
 
-## 📚 Currently Learning
-- Advanced Web & API Security  
-- Cloud Security & Threat Modeling (AWS)  
-- Active Directory Attacks & Defense  
-- Container & Kubernetes Security (Basics)  
-- Security Automation & Detection Engineering  
+## 👋 About Me
+
+I'm a final-year **B.Tech CSE** student building **practical GenAI and agentic AI systems**, meaning projects that are deployed, evaluated and secured, not just notebooks.
+
+- 🔭 Building: **[PLACEHOLDER: your current project]**
+- 🧠 Focus: **RAG systems, AI agents, LLM evaluation, deployment**
+- 🔐 Edge: a **cybersecurity background**, applied to **AI security** (prompt injection, PII handling, OWASP Top 10 for LLMs)
+- 🎥 I teach AI and career skills to students on YouTube: **Devloveper Sunny**
+- 📫 Open to **AI Engineer / GenAI Engineer / ML Engineer** roles and internships
 
 ---
 
-## 📂 Featured Work
-You’ll find:
-- 🔍 Security labs & vulnerability research  
-- 🧪 Hands-on penetration testing practice  
-- 🧰 Custom security scripts & tools  
-- 📝 Detailed documentation & write-ups  
+## 🛠️ Tech Stack
 
-Each project emphasizes **methodology, clarity, and ethical security practices**.
+**Languages**
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+
+
+**AI / ML**
+
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+
+
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+
+
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+
+
+**Backend & MLOps**
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+
+
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+> ⚠️ Delete any badge for a tool you haven't actually used.
 
 ---
 
-## 👥 Collaboration & Opportunities
-- Open to collaborating on **security tools, research projects, and open-source security initiatives**
-- Interested in **security engineering, pentesting, and cloud security roles**
+## 🚀 Featured Projects
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| 🔎 **[PLACEHOLDER] Production RAG System** | Answers questions from documents with retrieval, reranking and a hallucination-evaluation script | Python, FastAPI, FAISS, Docker | 🟡 In Progress |
+| 🤖 **[PLACEHOLDER] Multi-Agent Research Assistant** | Plans, searches, summarizes and compiles reports using tool-calling | LangGraph, Python | 🟡 In Progress |
+| 🛡️ **[PLACEHOLDER] Secure LLM App** | Prompt-injection defence and PII handling, mapped to OWASP Top 10 for LLMs | Python, FastAPI | 🟡 In Progress |
+| 📈 **[PLACEHOLDER] End-to-End MLOps Pipeline** | Training, MLflow tracking, CI/CD deployment and monitoring | scikit-learn, MLflow, GitHub Actions | ⚪ Planned |
+
+Each project includes: a **live demo**, a clean **README** (problem, approach, results, limitations), and a **security & privacy note**.
 
 ---
 
-## 📝 Writing & Knowledge Sharing
-- I write about **cybersecurity concepts, web security, cloud risks, and practical learning experiences**
-- Focused on **clear explanations and real-world relevance**
+## 🎯 Currently Learning
+
+- 🧪 LLM evaluation and guardrails
+- 🔁 Agent orchestration with LangGraph
+- ☁️ AWS (EC2, S3, Lambda, Bedrock)
+- 🧮 DSA: [PLACEHOLDER: X] problems solved on LeetCode
 
 ---
 
-## 📫 Contact
-- 📧 Email: **santhoshkumartalari05@gmail.com**
-- 🌐 GitHub: **https://github.com/santhoshtalari0**
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=santhoshtalari0&show_icons=true&theme=github_dark&hide_border=true&title_color=00c853&icon_color=00c853&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshtalari0&layout=compact&theme=github_dark&hide_border=true&title_color=00c853&bg_color=0d1117" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshtalari0&theme=github-dark-blue&hide_border=true&ring=00c853&fire=00c853&currStreakLabel=00c853" />
+
+</div>
 
 ---
 
-## ⚠️ Ethical Disclaimer
-All security research and testing shared here is conducted **only on authorized systems, labs, or environments** intended for learning and research purposes.
+## 📝 Writing and Teaching
+
+- 🎥 YouTube: **Devloveper Sunny**, AI, coding and career roadmaps in Tenglish
+- ✍️ Build-in-public updates on LinkedIn: [PLACEHOLDER: link]
 
 ---
 
-## ⚡ Fun Fact
-I enjoy breaking systems *methodically* to understand how to **build them securely and resiliently** 🔐
+## 🤝 Let's Connect
+
+I'm looking for **AI Engineer / GenAI Engineer** roles and internships. If you're building with LLMs, RAG or agents, I'd love to talk.
+
+📧 **santhoshkumartalari05@gmail.com**
+
+---
+
+## ⚠️ Ethical Note
+
+My security background informs how I build: all testing is done only on systems I'm authorized to test.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:0d1117&height=100&section=footer" width="100%"/>
