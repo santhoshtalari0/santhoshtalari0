@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=180&section=header&text=Santhosh%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20%26%20Agentic%20Systems&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=180&section=header&text=Santhosh%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20and%20Agentic%20Systems&descAlignY=60&descSize=18" width="100%"/>
 
 [
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Building+production+RAG+%26+AI+Agent+systems;Python+%7C+PyTorch+%7C+LangGraph+%7C+FastAPI+%7C+Docker;B.Tech+CSE+Final+Year+%7C+Open+to+AI+Engineer+roles)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Building+production+RAG+and+AI+Agent+systems;Python+%7C+PyTorch+%7C+LangGraph+%7C+FastAPI+%7C+Docker;B.Tech+CSE+Final+Year+%7C+Open+to+AI+Engineer+roles)
 
 ](https://git.io/typing-svg)
 
