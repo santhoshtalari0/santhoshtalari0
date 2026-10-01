@@ -6,8 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Building+production+RAG+and+AI+Agent+systems;Python+%7C+PyTorch+%7C+LangGraph+%7C+FastAPI+%7C+Docker;B.Tech+CSE+Final+Year+%7C+Open+to+AI+Engineer+roles)
 
-](https://git.io/typing-svg)
-[
+(www.linkedin.com/in/santhosh-kumar-talari-0a5350374)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
