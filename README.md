@@ -43,7 +43,7 @@
 
 I'm a final-year **B.Tech CSE** student building **practical GenAI and agentic AI systems**, meaning projects that are deployed, evaluated and secured, not just notebooks.
 
-- 🔭 Building: **[PLACEHOLDER: your current project]**
+- 🔭 Building: **FLOW OS — Personal Web OS | Personal Productivity Command Center**
 - 🧠 Focus: **RAG systems, AI agents, LLM evaluation, deployment**
 - 🔐 Edge: a **cybersecurity background**, applied to **AI security** (prompt injection, PII handling, OWASP Top 10 for LLMs)
 - 🎥 I teach AI and career skills to students on YouTube: **Devloveper Sunny**
