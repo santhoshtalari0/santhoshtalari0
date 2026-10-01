@@ -41,7 +41,7 @@
 
 ## 👋 About Me
 
-I'm a final-year **B.Tech CSE** student building **practical GenAI and agentic AI systems**, meaning projects that are deployed, evaluated and secured, not just notebooks.
+I'm a 3rd-year **B.Tech CSE** student building **practical GenAI and agentic AI systems**, meaning projects that are deployed, evaluated and secured, not just notebooks.
 
 - 🔭 Building: **FLOW OS — Personal Web OS | Personal Productivity Command Center**
 - 🧠 Focus: **RAG systems, AI agents, LLM evaluation, deployment**
@@ -83,12 +83,12 @@ I'm a final-year **B.Tech CSE** student building **practical GenAI and agentic A
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| 🔎 **[PLACEHOLDER] Production RAG System** | Answers questions from documents with retrieval, reranking and a hallucination-evaluation script | Python, FastAPI, FAISS, Docker | 🟡 In Progress |
-| 🤖 **[PLACEHOLDER] Multi-Agent Research Assistant** | Plans, searches, summarizes and compiles reports using tool-calling | LangGraph, Python | 🟡 In Progress |
-| 🛡️ **[PLACEHOLDER] Secure LLM App** | Prompt-injection defence and PII handling, mapped to OWASP Top 10 for LLMs | Python, FastAPI | 🟡 In Progress |
-| 📈 **[PLACEHOLDER] End-to-End MLOps Pipeline** | Training, MLflow tracking, CI/CD deployment and monitoring | scikit-learn, MLflow, GitHub Actions | ⚪ Planned |
+| 🔎 **Production RAG System** | Answers questions from documents with retrieval, reranking and a hallucination-evaluation script | Python, FastAPI, FAISS, Docker | 🟡 In Progress |
+| 🤖 **Multi-Agent Research Assistant** | Plans, searches, summarizes and compiles reports using tool-calling | LangGraph, Python | 🟡 In Progress |
+| 🛡️ **Secure LLM App** | Prompt-injection defence and PII handling, mapped to OWASP Top 10 for LLMs | Python, FastAPI | 🟡 In Progress |
+| 📈 **End-to-End MLOps Pipeline** | Training, MLflow tracking, CI/CD deployment and monitoring | scikit-learn, MLflow, GitHub Actions | ⚪ Planned |
 
-Each project includes: a **live demo**, a clean **README** (problem, approach, results, limitations), and a **security & privacy note**.
+
 
 ---
 
@@ -97,7 +97,7 @@ Each project includes: a **live demo**, a clean **README** (problem, approach, r
 - 🧪 LLM evaluation and guardrails
 - 🔁 Agent orchestration with LangGraph
 - ☁️ AWS (EC2, S3, Lambda, Bedrock)
-- 🧮 DSA: [PLACEHOLDER: X] problems solved on LeetCode
+- 🧮 DSA: 100+ problems solved on LeetCode
 
 ---
 
@@ -116,8 +116,8 @@ Each project includes: a **live demo**, a clean **README** (problem, approach, r
 
 ## 📝 Writing and Teaching
 
-- 🎥 YouTube: **Devloveper Sunny**, AI, coding and career roadmaps in Tenglish
-- ✍️ Build-in-public updates on LinkedIn: [PLACEHOLDER: link]
+- 🎥 YouTube: https://www.youtube.com/channel/UCJmKZ5GaiUlGuQCa9AiGNEg, AI, coding and career roadmaps in Tenglish
+- ✍️ Build-in-public updates on LinkedIn: www.linkedin.com/in/santhosh-kumar-talari-0a5350374 
 
 ---
 
