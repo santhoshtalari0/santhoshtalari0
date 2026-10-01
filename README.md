@@ -2,27 +2,38 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c853&height=180&section=header&text=Santhosh%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20and%20Agentic%20Systems&descAlignY=60&descSize=18" width="100%"/>
 
-[
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Building+production+RAG+and+AI+Agent+systems;Python+%7C+PyTorch+%7C+LangGraph+%7C+FastAPI+%7C+Docker;B.Tech+CSE+3rd+Year+%7C+Open+to+AI+Engineer+roles)
 
 ](https://git.io/typing-svg)
 
-[
+<br/>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" align="center"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><b>linkedin.com/in/YOUR-LINKEDIN-ID</b></a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="mailto:santhoshkumartalari05@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" align="center"/>
+  </a>
+  <a href="mailto:santhoshkumartalari05@gmail.com"><b>santhoshkumartalari05@gmail.com</b></a>
+</p>
 
-](#)
-[
+<p align="center">
+  <a href="https://youtube.com/@devloveper_sunny">
+    <img src="https://skillicons.dev/icons?i=youtube" height="32" align="center"/>
+  </a>
+  <a href="https://youtube.com/@devloveper_sunny"><b>youtube.com/@devloveper_sunny</b></a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR-INSTAGRAM-ID">
+    <img src="https://skillicons.dev/icons?i=instagram" height="32" align="center"/>
+  </a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM-ID"><b>instagram.com/YOUR-INSTAGRAM-ID</b></a>
+</p>
 
-![Email](https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:santhoshkumartalari05@gmail.com)
-[
-
-![YouTube](https://img.shields.io/badge/YouTube-Devloveper_Sunny-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-](https://youtube.com/@devloveper_sunny)
+</div>
 
 </div>
 
