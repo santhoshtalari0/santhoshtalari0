@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Building+production+RAG+and+AI+Agent+systems;Python+%7C+PyTorch+%7C+LangGraph+%7C+FastAPI+%7C+Docker;B.Tech+CSE+3rd+Year+%7C+Open+to+AI+Engineer+roles)
 
-](https://git.io/typing-svg)
+
 
 <br/>
 
@@ -33,7 +33,7 @@
   <a href="https://instagram.com/YOUR-INSTAGRAM-ID"><b>instagram.com/YOUR-INSTAGRAM-ID</b></a>
 </p>
 
-</div>
+</br>
 
 </div>
 
