@@ -6,7 +6,7 @@
 
 
 
-
+---
 ## 👋 About Me
 
 I'm a 3rd-year **B.Tech CSE** student building **practical GenAI and agentic AI systems**, meaning projects that are deployed, evaluated and secured, not just notebooks.
