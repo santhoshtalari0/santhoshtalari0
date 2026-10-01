@@ -6,38 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Building+production+RAG+and+AI+Agent+systems;Python+%7C+PyTorch+%7C+LangGraph+%7C+FastAPI+%7C+Docker;B.Tech+CSE+3rd+Year+%7C+Open+to+AI+Engineer+roles)
 
 
-
-<br/>
-
-<p align="center">
-  <a href="www.linkedin.com/in/santhosh-kumar-talari-0a5350374">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" align="center"/>
-  </a>
-  <a href="www.linkedin.com/in/santhosh-kumar-talari-0a5350374">www.linkedin.com/in/santhosh-kumar-talari-0a5350374</a>
-  
-  <a href="mailto:santhoshkumartalari05@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" align="center"/>
-  </a>
-
-  
-  <a href="mailto:santhoshkumartalari05@gmail.com"><b>santhoshkumartalari05@gmail.com</b></a>
-</p>
-
-<p align="center">
-  <a href="https://youtube.com/@devloveper_sunny">
-    <img src="https://skillicons.dev/icons?i=youtube" height="32" align="center"/>
-  </a>
-  <a href="https://youtube.com/@devloveper_sunny"><b>youtube.com/@devloveper_sunny</b></a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/devloveper_sunny/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="32" align="center"/>
-  </a>
-  <a href="https://www.instagram.com/devloveper_sunny/"><b>instagram.com/devloveper_sunny</b></a>
-</p>
-
-</br>
-
-</div>
+---
 
 ---
 
