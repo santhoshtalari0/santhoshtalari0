@@ -84,8 +84,8 @@ I'm a 3rd-year **B.Tech CSE** student building **practical GenAI and agentic AI 
 
 ## 📝 Writing and Teaching
 
-- 🎥 YouTube: https://www.youtube.com/channel/UCJmKZ5GaiUlGuQCa9AiGNEg, AI, coding and career roadmaps in Tenglish
-- ✍️ Build-in-public updates on LinkedIn: www.linkedin.com/in/santhosh-kumar-talari-0a5350374 
+- 🎥 YouTube: https://www.youtube.com/channel/UCJmKZ5GaiUlGuQCa9AiGNEg [AI, coding and career roadmaps in Tenglish]
+- ✍️ LinkedIn: www.linkedin.com/in/santhosh-kumar-talari-0a5350374 
 
 ---
 
